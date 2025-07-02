@@ -1,6 +1,6 @@
-# Auto File Sorter
+# File Organizer
 
-**Auto File Sorter** is a Python script that organizes files in a specified directory based on a **predefined list of folders and file types**. It helps quickly clean up messy directories like Downloads by placing files into appropriate folders.
+**File Organizer** is a Python script that organizes files in a specified directory based on a **predefined list of folders and file types**. It helps quickly clean up messy directories like Downloads by placing files into appropriate folders.
 
 ## What It Does
 
