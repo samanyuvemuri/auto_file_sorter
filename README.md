@@ -11,7 +11,7 @@
 
 ## How to Run
 
-This project was developed with **Python using **Jupyter Notebook** in **Visual Studio Code**.
+This project was developed with Python using **Jupyter Notebook** in **Visual Studio Code**.
 
 1. Open the notebook in VSCode with the Jupyter extension.
 2. Update the `path` variable to your target directory.
